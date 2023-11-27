@@ -154,7 +154,7 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 
 
 ## OUTPUT:
-![Output](./Screenshot%20from%202023-11-27%2013-27-44.png)
+![Output](./Screenshot%20from%202023-11-27%2013-27-44.pn)
 
 
 
